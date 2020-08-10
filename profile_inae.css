@@ -46,3 +46,8 @@ p {
 a {
     margin-left: 40px;
 }
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
